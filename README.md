@@ -1,5 +1,5 @@
 # Rhine
- Rhine is an actual rhythm game inspired by Dancing Line, has similar but different mechanics than Dancing Ballz.
+ Rhine is a rhythm game inspired by Dancing Line, has similar but different mechanics than Dancing Ballz.
 
 ## Control
  Use your 4 arrow keys ⬆️⬅️⬇️➡️ on your keyboard to control the line.
