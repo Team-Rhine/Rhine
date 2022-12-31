@@ -7,9 +7,7 @@ We have over 30+ unique levels of different difficulties with different mechanic
 </p>
 
 # Download
-Follow [this link](https://github.com/TeddyJi/Rhine/releases/tag/1.0.0) to download v. 1.0.0 for PC and mobile devices once it's released!
-
-Meanwhile you can try out our prototype version, [1.0.0b17_2](https://github.com/TeddyJi/Rhine/releases/tag/1.0.0b17_2)!
+Follow [this link](https://github.com/TeddyJi/Rhine/releases/tag/1.0.0) to download v. 1.0.0 for PC and mobile devices!
 
 # Gameplay
 ### Controls
