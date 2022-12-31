@@ -15,7 +15,7 @@ Meanwhile you can try out our prototype version, [1.0.0b17_2](https://github.com
 ### Controls
 Use 4 keys of your choice (PC) / buttons on your screen (mobile) to tap up/down/left/right, once the player gets close enough to the note!
 
-After encourting a prolonged note, hold the correct key.
+After encountering a prolonged note, hold the correct key until the note ends.
 
 ### Judgement
 🟨 - Perfect
