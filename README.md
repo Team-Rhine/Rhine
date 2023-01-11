@@ -27,8 +27,6 @@ After encountering a prolonged note, hold the correct key until the note ends.
 
 [Haru](https://github.com/Haru1782) - Project Supervisor, Main Developer, Localization Manager
 
-[ReDark Technology](https://github.com/ReDarkTechnology) - Assistant Developer
-
 # Links
 **YouTube channel** - https://www.youtube.com/@rhine_game/featured
 
