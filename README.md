@@ -25,7 +25,7 @@ After encountering a prolonged note, hold the correct key until the note ends.
  # Credits
 [TeddyJi](https://github.com/TeddyJi) - Game Creator, Level Designer, Developer
 
-[Haru](https://github.com/Haru1782) - Project Supervisor, Main Developer, Localization Manager
+[Haru](https://github.com/Haru1753) - Project Supervisor, Main Developer, Localization Manager
 
 # Links
 **YouTube channel** - https://www.youtube.com/@rhine_game/featured
