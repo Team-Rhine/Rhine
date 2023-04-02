@@ -1,0 +1,30 @@
+{
+    "discord": "https://discord.gg/8gTmeGkVHd",
+    "youtube": "https://www.youtube.com/channel/UCypxY89DU92hkuQHx7TwO5g",
+    "developerVersion" : 0,
+    "developerLogIn" : false,
+    "betaLogIn" :
+    [
+        1,
+        2,
+        3
+    ],
+    "otherGames" :
+    {
+        "dlFengPort":
+        {
+            "header": "dlce",
+            "name":
+            {
+                "English": "Dancing Line Community Edition",
+                "ChineseSimplified": "跳舞的线社区版",
+                "ChineseTraditional": "跳舞的線社區版"
+            },
+            "link":
+            {
+                "WindowsEditor": "https://discord.gg/9xDYMDaxDy",
+                "IPhonePlayer": "https://discord.gg/9xDYMDaxDy"
+            }
+        }
+    }
+}
