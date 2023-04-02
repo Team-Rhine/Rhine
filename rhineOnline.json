@@ -5,15 +5,14 @@
     "developerLogIn" : false,
     "betaLogIn" :
     [
-        1,
-        2,
-        3
+        270205360097329152,
+        411494317060784128
     ],
     "otherGames" :
     {
         "dlFengPort":
         {
-            "header": "dlce",
+            "header": "https://github.com/TeddyJi/Rhine/raw/main/promo_dlFengPort.png",
             "name":
             {
                 "English": "Dancing Line Community Edition",
