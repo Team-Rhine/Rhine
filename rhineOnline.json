@@ -13,7 +13,6 @@
         408576714243833867,
         547770004020396043,
         269080651599314944,
-        270205360097329152,
         787188965845237770,
         797788826919501865,
         416769837239500810,
@@ -43,6 +42,32 @@
             {
                 "WindowsEditor": "Discord",
                 "IPhonePlayer": "Discord"
+            },
+        },
+        "etc":
+        {
+            "header": "https://github.com/TeddyJi/Rhine/raw/main/promo_etc.png",
+            "name":
+            {
+                "English": "ETC. - escaping the castle",
+                "German": "ETC. - aus dem Schloss fliehen",
+                "Japanese": "ETC。城からの脱出",
+                "Polish": "ETC. - uciekając z zamku",
+                "Russian": "ETC. - бежавши из замка",
+                "ChineseSimplified": "ETC。逃出城堡",
+                "ChineseTraditional": "ETC。逃出城堡",
+            },
+            "link":
+            {
+                "WindowsEditor": "https://github.com/Haru1753/ETC./releases/tag/v.1.0.0-3",
+                "WindowsPlayer": "https://github.com/Haru1753/ETC./releases/download/v.1.0.0-3/Windows.ETC.3-1.0.0.zip",
+                "LinuxPlayer": "https://github.com/Haru1753/ETC./releases/download/v.1.0.0-3/Linux.ETC.3-1.0.0.zip"
+            },
+            "stores":
+            {
+                "WindowsEditor": "GitHub",
+                "WindowsPlayer": "GitHub",
+                "LinuxPlayer": "GitHub"
             },
         }
     }
