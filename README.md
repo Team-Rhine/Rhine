@@ -25,7 +25,7 @@ After encountering a prolonged note, hold the correct key until the note ends.
  # Credits
 [TeddyJi](https://github.com/TeddyJi) - Game Creator, Level Designer, Developer
 
-[Haru](https://github.com/Haru1752) - Developer
+[Haru](https://github.com/Haru1753) - Developer
 
 [ReDark Technology](https://github.com/ReDarkTechnology) - Developer
 
