@@ -57,15 +57,15 @@
             },
             "link":
             {
-                "WindowsEditor": "https://github.com/Haru1753/ETC./releases/tag/v.1.0.0-3",
-                "WindowsPlayer": "https://github.com/Haru1753/ETC./releases/download/v.1.0.0-3/Windows.ETC.3-1.0.0.zip",
-                "LinuxPlayer": "https://github.com/Haru1753/ETC./releases/download/v.1.0.0-3/Linux.ETC.3-1.0.0.zip"
+                "WindowsEditor": "https://gamejolt.com/games/etc/802406",
+                "WindowsPlayer": "https://gamejolt.com/games/etc/802406",
+                "LinuxPlayer": "https://gamejolt.com/games/etc/802406"
             },
             "stores":
             {
-                "WindowsEditor": "GitHub",
-                "WindowsPlayer": "GitHub",
-                "LinuxPlayer": "GitHub"
+                "WindowsEditor": "Game Jolt",
+                "WindowsPlayer": "Game Jolt",
+                "LinuxPlayer": "Game Jolt"
             },
         }
     }
