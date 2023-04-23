@@ -22,26 +22,6 @@
     ],
     "otherGames" :
     {
-        "dlFengPort":
-        {
-            "header": "https://github.com/TeddyJi/Rhine/raw/main/promo_dlFengPort.png",
-            "name":
-            {
-                "English": "Dancing Line Community Edition",
-                "ChineseSimplified": "跳舞的线社区版",
-                "ChineseTraditional": "跳舞的線社區版"
-            },
-            "link":
-            {
-                "WindowsEditor": "https://discord.gg/9xDYMDaxDy",
-                "IPhonePlayer": "https://discord.gg/9xDYMDaxDy"
-            },
-            "stores":
-            {
-                "WindowsEditor": "Discord",
-                "IPhonePlayer": "Discord"
-            },
-        },
         "etc":
         {
             "header": "https://github.com/TeddyJi/Rhine/raw/main/promo_etc.png",
