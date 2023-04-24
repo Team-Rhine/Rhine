@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/112517587/210004090-e8d9c17e-c305-4b92-be97-4b095ddee639.png)
 <p align="center">
-a rhythm game where you use four buttons to tap to the rhythm!
+a rhythm game where you use four buttons to tap to the beat!
 </p>
 
 # Download
