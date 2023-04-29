@@ -1,7 +1,7 @@
 {
     "discord": "https://discord.gg/8gTmeGkVHd",
     "youtube": "https://www.youtube.com/channel/UCypxY89DU92hkuQHx7TwO5g",
-    "developerVersion" : 87,
+    "developerVersion" : 107,
     "developerLogIn" : false,
     "betaLogIn" :
     [
@@ -9,7 +9,6 @@
         433276300703170580,
         741431149892730920,
         603938625859616781,
-        547770004020396043,
         270205360097329152,
         787188965845237770,
         797788826919501865,
