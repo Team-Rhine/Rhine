@@ -4,9 +4,7 @@ a rhythm game where you use four buttons to tap to the beat!
 </p>
 
 # Download
-Download the most recent version of the game on [Game Jolt](https://gamejolt.com/games/rhine/801760) (Windows, Linux) and [Google Play](https://play.google.com/store/apps/details?id=com.TeddyJiStudios.Rhine) (Android)!
-
-To download Rhine Legacy, please refer to the [downloads tab](https://github.com/TeddyJi/Rhine/releases/tag/1.0.0).
+Download the most recent version of the game on [Game Jolt](https://gamejolt.com/games/rhine/801760) (Windows, Linux) and [GitHub]([https://play.google.com/store/apps/details?id=com.TeddyJiStudios.Rhine](https://github.com/Team-Rhine/Rhine/releases/latest) (Android)!
 
 # Gameplay
 ### Controls
@@ -22,7 +20,7 @@ Use 4 keys of your choice (PC) / buttons on your screen (mobile) to tap up/down/
  # Credits
 [TeddyJi](https://github.com/TeddyJi) - Game Creator, Level Designer, Developer
 
-[Haru](https://github.com/Haru1753) - Developer
+[Haru](https://github.com/Haru1753) - Former Developer
 
 [ReDark Technology](https://github.com/ReDarkTechnology) - Developer
 
