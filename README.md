@@ -4,7 +4,7 @@ a rhythm game where you use four buttons to tap to the beat!
 </p>
 
 # Download
-Download the most recent version of the game on [Game Jolt](https://gamejolt.com/games/rhine/801760) (Windows, Linux) and [Mirror](https://files.rhine.tax/) (Android/iOS)!
+Download the most recent version of the game here and on [Game Jolt](https://gamejolt.com/games/rhine/801760) (Windows, Linux)!
 
 # Gameplay
 ### Controls
