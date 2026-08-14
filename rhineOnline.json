@@ -30,31 +30,6 @@
     ],
     "otherGames" :
     {
-        "etc":
-        {
-            "header": "https://github.com/TeddyJi/Rhine/raw/main/promo_etc.png",
-            "name":
-            {
-                "English": "ETC. - escaping the castle",
-                "German": "ETC. - aus dem Schloss fliehen",
-                "Japanese": "ETC。城からの脱出",
-                "Polish": "ETC. - uciekając z zamku",
-                "Russian": "ETC. - бежавши из замка",
-                "ChineseSimplified": "ETC。逃出城堡",
-                "ChineseTraditional": "ETC。逃出城堡",
-            },
-            "link":
-            {
-                "WindowsEditor": "https://gamejolt.com/games/etc/802406",
-                "WindowsPlayer": "https://gamejolt.com/games/etc/802406",
-                "LinuxPlayer": "https://gamejolt.com/games/etc/802406"
-            },
-            "stores":
-            {
-                "WindowsEditor": "Game Jolt",
-                "WindowsPlayer": "Game Jolt",
-                "LinuxPlayer": "Game Jolt"
-            },
-        }
+        
     }
 }
